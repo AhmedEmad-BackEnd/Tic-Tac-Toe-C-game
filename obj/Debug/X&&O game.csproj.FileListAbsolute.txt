@@ -1,0 +1,11 @@
+D:\programming courses\part 2  begging of C#\course14\X&&O game\bin\Debug\X&&O game.exe.config
+D:\programming courses\part 2  begging of C#\course14\X&&O game\bin\Debug\X&&O game.exe
+D:\programming courses\part 2  begging of C#\course14\X&&O game\bin\Debug\X&&O game.pdb
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X&&O game.csproj.AssemblyReference.cache
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X__O_game.Form1.resources
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X__O_game.frmGame.resources
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X__O_game.Properties.Resources.resources
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X&&O game.csproj.GenerateResource.cache
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X&&O game.csproj.CoreCompileInputs.cache
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X&&O game.exe
+D:\programming courses\part 2  begging of C#\course14\X&&O game\obj\Debug\X&&O game.pdb
