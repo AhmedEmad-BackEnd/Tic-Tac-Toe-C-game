@@ -9,7 +9,7 @@ A classic Tic-Tac-Toe (X/O) game built as a desktop application using C# and Win
 
 A preview of the main game window.
 
-![Game Screenshot](URL_للصورة_هنا_استبدلني)
+![Game Screenshot](Image" src="https://github.com/user-attachments/assets/02a3c2f9-a360-4030-83c2-52f0eb380308)
 
 ## 🚀 Features
 
