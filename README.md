@@ -31,7 +31,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  *Clone the repository:*
     sh
-    git clone [https://github.com/AhmedEmad-BackEnd/Tic-Tac-Toe-CS.git](https://github.com/AhmedEmad-BackEnd/Tic-Tac-Toe-CS.git)
+   sh git clone **[https://github.com/AhmedEmad-BackEnd/Tic-Tac-Toe-C-game.git](https://github.com/AhmedEmad-BackEnd/Tic-Tac-Toe-C-game.git)**
     
 2.  *Open the solution file:*
     * Navigate to the project directory.
